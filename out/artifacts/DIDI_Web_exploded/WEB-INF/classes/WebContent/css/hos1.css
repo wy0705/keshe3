@@ -1,0 +1,57 @@
+body{
+    background-image: url(../img/ground.jpeg);
+    background-repeat: repeat;
+}
+.div8{
+    margin-top: 40px;
+    margin-bottom: 100px;
+
+}
+.div7{
+    height: 60px;
+    width: 1000px;
+    margin-left: 200px;
+}
+.div1{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 30px;
+    font-size: medium;
+}
+.div3{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.div4{
+    float: left;
+    width: 170px;
+}
+.div5{
+    float: left;
+    width: 100px;
+
+}
+.logo{
+    float: left;
+    width: 20px;
+}
+.img1{
+    width: 20px;
+    height: 20px;
+}
+.div6{
+    float: left;
+    margin-left: 20px;
+    width: 300px;
+    background-color: antiquewhite;
+}
+.clear{
+    clear: both;
+}
+.button{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: large;
+}
+

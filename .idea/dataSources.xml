@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL - DIDI@localhost [2]" uuid="07644ef2-76e2-4530-872b-3ef925860aea">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/DIDI</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="MySQL - DIDI@localhost" uuid="014a9af0-a250-4084-97a0-e57bc966bc04">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/DIDI</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="tst_ks@localhost" uuid="13b27e1e-99a7-4339-a09d-73258bffede8">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/tst_ks</jdbc-url>
+    </data-source>
+  </component>
+</project>
