@@ -18,7 +18,7 @@ import javax.servlet.http.HttpSession;
  * Servlet Filter implementation class AdminLogin
  */
 @WebFilter("/manage/*")
-public class AdminLogin implements Filter {
+public class  AdminLogin implements Filter {
 
     /**
      * Default constructor. 

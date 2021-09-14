@@ -13,11 +13,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/DIDI</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="test@localhost" uuid="8743464c-4644-46a2-b73a-f6ff6d07eae5">
+    <data-source source="LOCAL" name="tst_ks@localhost" uuid="13b27e1e-99a7-4339-a09d-73258bffede8">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/test</jdbc-url>
+      <jdbc-url>jdbc:mysql://localhost:3306/tst_ks</jdbc-url>
     </data-source>
   </component>
 </project>
